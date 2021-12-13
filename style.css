@@ -39,3 +39,45 @@
   font-size: 15px;
   padding: 5px;
 }
+
+.flex-content {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flex-content > div {
+  width: 75%;
+  padding-bottom: 20px;
+}
+
+#content-head {
+  font-size: x-large;
+}
+
+ul {
+  columns: 2;
+}
+
+.flex-edu-exp-head {
+  display: flex;
+  align-items: center;
+  height: 50px;
+}
+
+.edu-exp-title {
+  color: blueviolet;
+  font-size: large;
+  font-weight: bold;
+}
+
+.school-company {
+  font-size: large;
+}
+
+pre {
+  font-size: x-large;
+  font-weight: bold;
+}
