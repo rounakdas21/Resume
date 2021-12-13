@@ -16,6 +16,7 @@
   height: auto;
   justify-content: center;
   padding: 40px;
+  font-family: Arial, sans-serif;
 }
 
 .flex-name > div {
@@ -30,6 +31,7 @@
   height: auto;
   justify-content: center;
   padding: 40px;
+  font-family: Garamond, sans-serif;
 }
 
 .flex-other > div {
@@ -55,16 +57,19 @@
 
 #content-head {
   font-size: x-large;
+  font-family: Verdana, sans-serif;
 }
 
 ul {
   columns: 2;
+  font-family: Arial, sans-serif;
 }
 
 .flex-edu-exp-head {
   display: flex;
   align-items: center;
   height: 40px;
+  font-family: Trebuchet MS, sans-serif;
 }
 
 .edu-exp-title {
@@ -82,4 +87,9 @@ pre {
   font-size: x-large;
   font-weight: bold;
   color: blueviolet;
+}
+
+#objBody {
+  padding-top: 10px;
+  font-family: Arial, sans-serif;
 }
