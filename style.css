@@ -93,10 +93,16 @@ pre {
 #objBody {
   padding-top: 10px;
   font-family: Arial, sans-serif;
+  border: none;
 }
 
 .date-from-to {
   font-family: Arial, sans-serif;
   font-weight: bold;
   color: gray;
+}
+
+.objective > div {
+  border-bottom: 2px solid;
+  border-color: black;
 }
