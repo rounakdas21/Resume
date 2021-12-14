@@ -94,3 +94,9 @@ pre {
   padding-top: 10px;
   font-family: Arial, sans-serif;
 }
+
+.date-from-to {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  color: gray;
+}
